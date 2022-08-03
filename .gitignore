@@ -1,0 +1,9 @@
+# UNWANTED FOLDERS
+.idea/
+
+# LOG FILES
+*.log
+
+# PYTHON CACHE FILES
+*.cpython
+
